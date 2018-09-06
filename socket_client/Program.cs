@@ -16,10 +16,10 @@ namespace socket_client
         {
 
             Socket_client client = new Socket_client();
-            client.Connect();
-       
-            // 连接断开事件
-          
+            string ip = "192.168.1.104";
+            int port = 8080;
+            client.Connect(ip,port);
+               
             while (true) ;
         }
     }

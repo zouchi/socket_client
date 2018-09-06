@@ -52,11 +52,9 @@ namespace socket_client
             Console.WriteLine("连接断开");
         }
 
-        public void Connect()
+        public void Connect(string Ip, int Port)
         {
-            string ip = "192.168.1.104";
-            int port = 8080;
-            client.Connect(new IPEndPoint(IPAddress.Parse(ip), port));
+            client.Connect(new IPEndPoint(IPAddress.Parse(Ip), Port));
             string loginCmd = "LOGIN test\r\n";
             byte[] data = Encoding.Default.GetBytes(loginCmd);
             client.Send(data, 0, data.Length);
