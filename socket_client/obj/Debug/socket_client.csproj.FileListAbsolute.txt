@@ -1,0 +1,9 @@
+D:\supersocket\supersocketdemo\socket_client\socket_client\socket_client\obj\Debug\socket_client.csprojResolveAssemblyReference.cache
+D:\supersocket\supersocketdemo\socket_client\socket_client\socket_client\obj\Debug\socket_client.csproj.CoreCompileInputs.cache
+D:\supersocket\supersocketdemo\socket_client\socket_client\socket_client\bin\Debug\socket_client.exe
+D:\supersocket\supersocketdemo\socket_client\socket_client\socket_client\bin\Debug\socket_client.pdb
+D:\supersocket\supersocketdemo\socket_client\socket_client\socket_client\bin\Debug\Newtonsoft.Json.dll
+D:\supersocket\supersocketdemo\socket_client\socket_client\socket_client\bin\Debug\SuperSocket.ClientEngine.dll
+D:\supersocket\supersocketdemo\socket_client\socket_client\socket_client\obj\Debug\socket_client.csproj.CopyComplete
+D:\supersocket\supersocketdemo\socket_client\socket_client\socket_client\obj\Debug\socket_client.exe
+D:\supersocket\supersocketdemo\socket_client\socket_client\socket_client\obj\Debug\socket_client.pdb
